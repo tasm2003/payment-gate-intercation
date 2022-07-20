@@ -1,0 +1,11 @@
+Model Information:
+* title:	Godzilla 2019
+* source:	https://sketchfab.com/3d-models/godzilla-2019-f0438d70e3a544acb6abf147f37bfac2
+* author:	ann55010970637 (https://sketchfab.com/ann55010970637)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Godzilla 2019" (https://sketchfab.com/3d-models/godzilla-2019-f0438d70e3a544acb6abf147f37bfac2) by ann55010970637 (https://sketchfab.com/ann55010970637) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
